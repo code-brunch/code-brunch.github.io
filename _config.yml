@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Code Brunch # add your name
 author-img: logo_coffee.jpg # add your photo
-about-author: Automotive Embedde Platform Engineer <br> test # add description
+about-author: Programming languages <br> Data Science <br> Computer Science <br> Embedded System <br> Machine Learning # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: code-brunch # add your Github handle
